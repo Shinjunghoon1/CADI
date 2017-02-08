@@ -61,26 +61,26 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="이름: 신정훈"
+                android:text="이름: name"
                 android:textSize="20dp"
                 />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="나이: 27"
+                android:text="나이: age"
                 android:textSize="20dp"
                 />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="학교:강남대학교"
+                android:text="학교:schocl"
                 android:textSize="20dp"
                 />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="분야:개발A"
+                android:text="분야:field"
                 android:textSize="20dp"
                 />
 
